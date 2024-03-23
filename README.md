@@ -1,16 +1,9 @@
-# All Candlestick Pattern Indicators 所有技术形态指标
+# All Candlestick Pattern Indicators
 This is an enhanced version of candlestick pattern indicators in `TradingView`. Compared with the built-in one, it is more powerful since it has:  
 ✔️ optimized codes to run faster  
 ✔️ lots of filter options to see only your favorite indicators  
 ✔️ customization of label shapes and colors  
-⭕ Chinese translation (WIP)  
-
-
-这个是加强版的技术形态指标，跟`TradingView`自带的指标相比，这个有更强大的功能：  
-✔️ 优化后的代码，所以运行更快  
-✔️ 更多的过滤选项，只显示你最喜欢的指标们  
-✔️ 可以自由选择指标的颜色和形状  
-⭕ 中文名称！！（WIP）  
+ 
 
 ## 🚀 Preview
 ### Overview
